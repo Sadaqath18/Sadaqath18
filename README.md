@@ -1,7 +1,7 @@
 ## Hi I'm SADAQATH QURESHI 👋
 
 - 🔭 I’m currently working on enhancing my Java and Spring Boot skills while building real-world backend projects.<br>
-- 🌱 I’m currently learning react.js/springboot and GitHub collaboration workflows.<br>
+- 🌱 I’m currently learning react.js/Next.js and springboot .<br>
 - 📫 Reach me at: sadaqathqureshi56@gmail.com<br>
 
 
